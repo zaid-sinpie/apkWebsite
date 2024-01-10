@@ -30,7 +30,8 @@ body {
   font-weight: 300;
   color: #444;
   line-height: 1.9;
-  background-color: #f3f3f3;
+  /* background-color: #f3f3f3; */
+  background-color: #e3e3e3;
 }
 
 /* GENERAL ELEMENTS */
@@ -525,7 +526,7 @@ h4 {
 
 /* SIGNUP */
 .section--sign-up {
-  background-color: #37383d;
+  background-color: #101948;
   border-top: none;
   border-bottom: 1px solid #444;
   text-align: center;
@@ -549,7 +550,7 @@ h4 {
 /* FOOTER */
 .footer {
   padding: 10rem 3rem;
-  background-color: #37383d;
+  background-color: #101948;
 }
 
 .footer__nav {
